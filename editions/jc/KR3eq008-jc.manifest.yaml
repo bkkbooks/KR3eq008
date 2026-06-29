@@ -1,0 +1,168 @@
+canonical_identifier: bkk:krp/KR3eq008/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq008/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 肯堂醫論
+  identifiers:
+    krp: KR3eq008
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq008.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3eq008_001-jc.yaml, hash: 'sha256:5c42ced295b4e208d995f15eeaf38b10b585b623295dc843a8eafee020afd2b7'}
+  - {seq: 2, filename: KR3eq008_002-jc.yaml, hash: 'sha256:f167d8b5923daee8ba6b274fdcf0fc8bc2d0ab11b187e5b29d1fe2dca18e53d8'}
+  - {seq: 3, filename: KR3eq008_003-jc.yaml, hash: 'sha256:d63abc2afefb09959e8315f8332fbe9eca9d37db7db51dc26e21972469933b0d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eq008_001-jc.markers.yaml, hash: 'sha256:d585155ad3420f7b93290f062d861f17608fc9b6a0309f64487d7dfe3acb6386'}
+  - {seq: 2, role: markers, filename: assets/KR3eq008_002-jc.markers.yaml, hash: 'sha256:c5e830aa805c48530a7d80fb7c16785a6b958d8ce91b27a375e47b8757420596'}
+  - {seq: 3, role: markers, filename: assets/KR3eq008_003-jc.markers.yaml, hash: 'sha256:1916042b76c6af3a203661ac92577cebd7488a075444551a0518b6a22e084717'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eq008_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 3093
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq008_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 2385
+  label: 痘疹發微
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq008_jc_001-d2d3
+    span:
+    - body
+    - 2385
+    - 3093
+  label: 驚風
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq008_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 5555
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq008_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 187
+  label: 論望色
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq008_jc_002-d3d3
+    span:
+    - body
+    - 187
+    - 228
+  label: 論芤脈
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq008_jc_002-d3d4
+    span:
+    - body
+    - 228
+    - 1712
+  label: 論人參
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq008_jc_002-d3d5
+    span:
+    - body
+    - 1712
+    - 1804
+  label: 論犀角
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq008_jc_002-d3d6
+    span:
+    - body
+    - 1804
+    - 5555
+  label: 雜記
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq008_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 9809
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq008_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 314
+  label: 三瘧治驗
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq008_jc_003-d4d3
+    span:
+    - body
+    - 314
+    - 409
+  label: 神水治驗
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq008_jc_003-d4d4
+    span:
+    - body
+    - 409
+    - 537
+  label: 制神水秘法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq008_jc_003-d4d5
+    span:
+    - body
+    - 537
+    - 9809
+  label: 婦科驗方
+  type: section
+  level: 2
+hash: sha256:71e19e1e09b411a00785ea67128d25fe2c827fe81542d45499ca7c90b6c47c5a
