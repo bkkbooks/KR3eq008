@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq008/v1
 canonical_location: https://kanripo.org/bkk/KR3eq008/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 肯堂醫論
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3eq008_001.yaml, hash: 'sha256:5c42ced295b4e208d995f15eeaf38b10b585b623295dc843a8eafee020afd2b7'}
-  - {seq: 2, filename: KR3eq008_002.yaml, hash: 'sha256:f167d8b5923daee8ba6b274fdcf0fc8bc2d0ab11b187e5b29d1fe2dca18e53d8'}
-  - {seq: 3, filename: KR3eq008_003.yaml, hash: 'sha256:d63abc2afefb09959e8315f8332fbe9eca9d37db7db51dc26e21972469933b0d'}
+  - {seq: 1, filename: KR3eq008_001.yaml, hash: 'sha256:196112cb6c6bdf1e59b6872a40deb2bdb0dfa01f4eedc22eadb51a7fe2768591'}
+  - {seq: 2, filename: KR3eq008_002.yaml, hash: 'sha256:a6a43968f74422d58238a008bfd97c67b381b9dc972399c7bff13f9043f79ac9'}
+  - {seq: 3, filename: KR3eq008_003.yaml, hash: 'sha256:f2f9018798ef47b24e5dab6c449904f57d8173827e16d7bf811872d05a525fe5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eq008_001.markers.yaml, hash: 'sha256:27b7ab6518277bfca8ff13e76b3352c252338ddf98661f1842268be41b08582a'}
-  - {seq: 2, role: markers, filename: assets/KR3eq008_002.markers.yaml, hash: 'sha256:f66bdb1d8f5426dbce9f480d799db34267fdce22859d4f446435f60bec79a5c7'}
-  - {seq: 3, role: markers, filename: assets/KR3eq008_003.markers.yaml, hash: 'sha256:bb86b3bd40e36646250b2ce2ed62437745e0d3877d87be4800cf389e546880b1'}
+  - {seq: 1, role: markers, filename: assets/KR3eq008_001.markers.yaml, hash: 'sha256:9fb22141e0753de1b6d89e399fc1766e4afe2640e805be738b9d7537ccd4011b'}
+  - {seq: 2, role: markers, filename: assets/KR3eq008_002.markers.yaml, hash: 'sha256:d46fbfeeffc0ba2bc624dc1d55e4b398fbf564e76a7d43908df5e62e75e7f7cd'}
+  - {seq: 3, role: markers, filename: assets/KR3eq008_003.markers.yaml, hash: 'sha256:f9664c627987cda02a3522791ae51543930822510628dc370416984f6b45093b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -165,4 +165,7 @@ table_of_contents:
   label: 婦科驗方
   type: section
   level: 2
-hash: sha256:a147580ebe9d5de4cdc3cc3478654b096864c44ae8f000a7916f1fd637b4929a
+hash: sha256:524782fedb53417c355316e53924e657fdd2d288006ab20d4a86dcf6e9140307
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
